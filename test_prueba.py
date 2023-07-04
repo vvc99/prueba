@@ -1,4 +1,3 @@
-import pytest
 from prueba import add
 
 def test_addition():

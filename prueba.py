@@ -1,5 +1,3 @@
-print("Hola mundo")
-
 def add(a, b): 
     return a + b
 
